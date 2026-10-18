@@ -25,8 +25,7 @@ A beginner-friendly Python project that detects which language a piece of text i
 15. [Running the tests](#running-the-tests)
 16. [Troubleshooting](#troubleshooting)
 17. [Screenshots](#screenshots)
-18. [Future enhancements](#future-enhancements)
-19. [Credits and license](#credits-and-license)
+
 
 ## Overview
 
