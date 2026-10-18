@@ -250,19 +250,9 @@ Last recorded run (Python 3.12.3, pytest 9.1.1): **62 passed**. See [docs/testin
 
 ## Screenshots
 
-No screenshots are bundled because the build environment had no browser. See [screenshots/README.md](screenshots/README.md) for how to add your own.
+Screenshots are added in its folder.
 
-## Future enhancements
 
-- Per-sentence detection of mixed-language text.
-- Romanised Indic text (transliteration) support.
-- CSV/file batch upload with a downloadable report.
-- Calibrated confidence and a benchmark against a labelled dataset.
-- Docker packaging.
 
-## Credits and license
 
-- [py3langid](https://github.com/adbar/py3langid) by Adrien Barbaresi, derived from [langid.py](https://github.com/saffsd/langid.py) by Marco Lui and Timothy Baldwin.
-- [Streamlit](https://streamlit.io), [FastAPI](https://fastapi.tiangolo.com), [pytest](https://pytest.org).
 
-Released under the [MIT License](LICENSE). Replace `<YOUR NAME>` in the license with your name. After publishing, the repository will be at `https://github.com/<your-username>/language-identification-system`.
