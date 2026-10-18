@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and local configuration
+.env
+*.env.local
+.streamlit/secrets.toml
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.zip
+
+# Additional virtual environments and test artifacts
+.venv-*/
+.coverage
+htmlcov/
